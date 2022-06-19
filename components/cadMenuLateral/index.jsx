@@ -14,5 +14,5 @@ const CadLateral = () => (
             </nav>
         </Lateral>
     </div>
-)
+);
 export default CadLateral;
